@@ -1,0 +1,1 @@
+FlashNotes is a tool for taking notes and creating flash cards. make a connected flash card or make note or flash cards on their own. The flash cards when run will grade your answers based on correct words used. cards with a poor grade will be re-run often sprinkled with higher scoring cards.
